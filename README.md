@@ -11,7 +11,9 @@
 
 ## Requirements
 - Stock or Bitcoin Price data in time series
+
 [Yahoo finance](https://finance.yahoo.com/)
+
 [Coin Market Cap](https://coinmarketcap.com/)
 
 - In my case, I used Samsung stock price data and ethereum data for Bitcoin
